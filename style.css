@@ -23,12 +23,6 @@
     text-align: justify;
 }
 
-.header-text,
-strong {
-    text-decoration-line: underline;
-    text-decoration-color: darkslategrey;
-}
-
 #buttonTextds {
     -webkit-margin-start: 340px;
     margin-top: 50px;
@@ -105,10 +99,18 @@ h3 {
     background-image: url(/images/speaker2.jpg);
     background-position: center;
     display: flex;
+    border: solid 1px;
     /* height: 400px; */
     /* width: 300px; */
     background-size: cover;
 }
+
+
+/* . {
+     padding-top: 150px;
+    margin-top: 200px;
+    display: flex;
+} */
 
 .col {
     -webkit-margin-start: 75px;
