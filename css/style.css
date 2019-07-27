@@ -86,7 +86,7 @@ h3 {
 }
 
 .box-img1 {
-    background-image: url(/images/spks\ 1.jpg);
+    background-image: url(http://jazzmane.github.io/Ass1/images/spks\ 1.jpg);
     background-position: center;
     display: flex;
     /* width: 100px; */
@@ -96,7 +96,7 @@ h3 {
 }
 
 .box-img2 {
-    background-image: url(/images/speaker2.jpg);
+    background-image: url(http://jazzmane.github.io/Ass1/images/speaker2.jpg);
     background-position: center;
     display: flex;
     /* height: 400px; */
