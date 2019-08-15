@@ -39,22 +39,36 @@
 
 /*-------------- main--------------- */
 
-.container1 {
+
+/* .container1 {
     margin-top: 150px;
     display: flex;
     justify-content: center;
-    /* flex: 10; */
     justify-content: space-evenly;
+} */
+
+.col-sm img {
+    margin: auto;
+    display: flex;
+    height: 23em;
+    width: 22em;
+    margin-top: 12em;
+    margin-bottom: 70px;
+    background-position: center;
+    /* image-properties */
+    position: relative;
+    text-align: center;
+    color: wheat;
 }
 
-.container1 img {
-    display: flex;
-    /* margin: auto; */
-    min-height: auto;
-    height: 250px;
-    flex-basis: 200px;
-    margin-bottom: 100px;
-    background-position: center;
+.img-text {
+    color: white;
+    position: absolute;
+    top: 15em;
+    left: 4em;
+    line-height: 1.8em;
+    font-size: large;
+    font-weight: 400;
 }
 
 .bodyTexthead a,

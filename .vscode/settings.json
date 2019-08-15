@@ -8,6 +8,7 @@
     "plaintext",
     "css"
   ],
+  "peacock.color": "#000000",
   "workbench.colorCustomizations": {
     "activityBar.background": "#1a1a1a",
     "activityBar.foreground": "#e7e7e7",
